@@ -1,1 +1,2 @@
-print("Hello World!");
+def sumar(a, b):
+    return a + b
